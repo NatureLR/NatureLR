@@ -1,3 +1,3 @@
 
-[图片](dino.gif)
+![图片](dino.gif)
 
